@@ -8,7 +8,7 @@
 	<array>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable1.unmixerFourTrackChannel4VolumeEQ</string>
+			<string>turntable3.unmixerFourTrackChannel4VolumeEQ</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -18,7 +18,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable1.unmixerFourTrackChannel3VolumeEQ</string>
+			<string>turntable3.unmixerFourTrackChannel3VolumeEQ</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -28,7 +28,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable1.unmixerFourTrackChannel2VolumeEQ</string>
+			<string>turntable3.unmixerFourTrackChannel2VolumeEQ</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -38,7 +38,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable2.unmixerFourTrackChannel4VolumeEQ</string>
+			<string>turntable1.unmixerFourTrackChannel4VolumeEQ</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -48,7 +48,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable2.unmixerFourTrackChannel3VolumeEQ</string>
+			<string>turntable1.unmixerFourTrackChannel3VolumeEQ</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -58,7 +58,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable2.unmixerFourTrackChannel2VolumeEQ</string>
+			<string>turntable1.unmixerFourTrackChannel2VolumeEQ</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -68,7 +68,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable3.unmixerFourTrackChannel4VolumeEQ</string>
+			<string>turntable2.unmixerFourTrackChannel4VolumeEQ</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -78,7 +78,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable3.unmixerFourTrackChannel3VolumeEQ</string>
+			<string>turntable2.unmixerFourTrackChannel3VolumeEQ</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -88,7 +88,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable3.unmixerFourTrackChannel2VolumeEQ</string>
+			<string>turntable2.unmixerFourTrackChannel2VolumeEQ</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -128,7 +128,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable1.unmixerFourTrackChannel1Volume</string>
+			<string>turntable3.unmixerFourTrackChannel1Volume</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -138,7 +138,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable2.unmixerFourTrackChannel1Volume</string>
+			<string>turntable1.unmixerFourTrackChannel1Volume</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -148,7 +148,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable3.unmixerFourTrackChannel1Volume</string>
+			<string>turntable2.unmixerFourTrackChannel1Volume</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -168,7 +168,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable1.unmixerFourTrackChannel4Solo</string>
+			<string>turntable3.unmixerFourTrackChannel4Solo</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -180,7 +180,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable1.unmixerFourTrackChannel3Solo</string>
+			<string>turntable3.unmixerFourTrackChannel3Solo</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -192,7 +192,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable1.unmixerFourTrackChannel2Solo</string>
+			<string>turntable3.unmixerFourTrackChannel2Solo</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -204,7 +204,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable2.unmixerFourTrackChannel4Solo</string>
+			<string>turntable1.unmixerFourTrackChannel4Solo</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -216,7 +216,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable2.unmixerFourTrackChannel3Solo</string>
+			<string>turntable1.unmixerFourTrackChannel3Solo</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -228,7 +228,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable2.unmixerFourTrackChannel2Solo</string>
+			<string>turntable1.unmixerFourTrackChannel2Solo</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -240,7 +240,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable3.unmixerFourTrackChannel4Solo</string>
+			<string>turntable2.unmixerFourTrackChannel4Solo</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -252,7 +252,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable3.unmixerFourTrackChannel3Solo</string>
+			<string>turntable2.unmixerFourTrackChannel3Solo</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -264,7 +264,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable3.unmixerFourTrackChannel2Solo</string>
+			<string>turntable2.unmixerFourTrackChannel2Solo</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -312,7 +312,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable1.bpmSync</string>
+			<string>turntable3.bpmSync</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -322,7 +322,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable1.bpmSync</string>
+			<string>turntable3.bpmSync</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -334,7 +334,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable1.autoLoop8BeatInterval</string>
+			<string>turntable3.autoLoop8BeatInterval</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -344,7 +344,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable1.autoLoop8BeatInterval</string>
+			<string>turntable3.autoLoop8BeatInterval</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -356,7 +356,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable1.cuePositionOrJumpConsideringPlayState1</string>
+			<string>turntable3.cuePositionOrJumpConsideringPlayState1</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -368,7 +368,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable1.playPause</string>
+			<string>turntable3.playPause</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -378,7 +378,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable1.playPause</string>
+			<string>turntable3.playPause</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -390,7 +390,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable2.bpmSync</string>
+			<string>turntable1.bpmSync</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -400,7 +400,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable2.bpmSync</string>
+			<string>turntable1.bpmSync</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -412,7 +412,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable2.autoLoop8BeatInterval</string>
+			<string>turntable1.autoLoop8BeatInterval</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -422,7 +422,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable2.autoLoop8BeatInterval</string>
+			<string>turntable1.autoLoop8BeatInterval</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -434,7 +434,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable2.cuePositionOrJumpConsideringPlayState1</string>
+			<string>turntable1.cuePositionOrJumpConsideringPlayState1</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -446,7 +446,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable2.playPause</string>
+			<string>turntable1.playPause</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -456,7 +456,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable2.playPause</string>
+			<string>turntable1.playPause</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -468,7 +468,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable3.bpmSync</string>
+			<string>turntable2.bpmSync</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -478,7 +478,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable3.bpmSync</string>
+			<string>turntable2.bpmSync</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -490,7 +490,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable3.autoLoop8BeatInterval</string>
+			<string>turntable2.autoLoop8BeatInterval</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -500,7 +500,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable3.autoLoop8BeatInterval</string>
+			<string>turntable2.autoLoop8BeatInterval</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -512,7 +512,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable3.cuePositionOrJumpConsideringPlayState1</string>
+			<string>turntable2.cuePositionOrJumpConsideringPlayState1</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -524,7 +524,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable3.playPause</string>
+			<string>turntable2.playPause</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -534,7 +534,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable3.playPause</string>
+			<string>turntable2.playPause</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -624,7 +624,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable1.loadTrack</string>
+			<string>turntable3.loadTrack</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -634,7 +634,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable2.loadTrack</string>
+			<string>turntable1.loadTrack</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -644,7 +644,7 @@
 		</dict>
 		<dict>
 			<key>keyPath</key>
-			<string>turntable3.loadTrack</string>
+			<string>turntable2.loadTrack</string>
 			<key>midiChannel</key>
 			<integer>14</integer>
 			<key>midiData</key>
@@ -661,6 +661,62 @@
 			<integer>55</integer>
 			<key>midiMessageType</key>
 			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>controlType</key>
+			<string>rotary</string>
+			<key>flipped</key>
+			<true/>
+			<key>keyPath</key>
+			<string>musicLibrary.libraryRotary</string>
+			<key>midiChannel</key>
+			<integer>14</integer>
+			<key>midiData</key>
+			<integer>0</integer>
+			<key>midiMessageType</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>controlType</key>
+			<string>rotary</string>
+			<key>flipped</key>
+			<true/>
+			<key>keyPath</key>
+			<string>musicLibrary.libraryRotary</string>
+			<key>midiChannel</key>
+			<integer>14</integer>
+			<key>midiData</key>
+			<integer>1</integer>
+			<key>midiMessageType</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>controlType</key>
+			<string>rotary</string>
+			<key>flipped</key>
+			<true/>
+			<key>keyPath</key>
+			<string>musicLibrary.libraryRotary</string>
+			<key>midiChannel</key>
+			<integer>14</integer>
+			<key>midiData</key>
+			<integer>2</integer>
+			<key>midiMessageType</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>controlType</key>
+			<string>rotary</string>
+			<key>flipped</key>
+			<true/>
+			<key>keyPath</key>
+			<string>musicLibrary.libraryRotary</string>
+			<key>midiChannel</key>
+			<integer>14</integer>
+			<key>midiData</key>
+			<integer>3</integer>
+			<key>midiMessageType</key>
+			<integer>3</integer>
 		</dict>
 	</array>
 	<key>editor</key>
